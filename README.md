@@ -3,7 +3,7 @@
 Python project demonstrating a simple AI chatbot/agent
 using the Google Gemini API.
 
-Designed for recruiters and learners to clone and run locally by supplying their own API key.
+Designed to clone and run locally by supplying your own API key.
 
 > Tested on Windows with Python 3.12 (compatible with Python 3.9+)
 
